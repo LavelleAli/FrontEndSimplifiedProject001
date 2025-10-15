@@ -1,0 +1,68 @@
+* { 
+    box-sizing: border-box;
+}
+
+.foundation {
+    border: 2px solid black;
+    width: 100%;
+    max-width: 600px;
+    margin: 20px 0px 0px 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.roof-wrap {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+
+}
+
+.roof {
+    border: 2px solid black;
+    width: 100%;
+    max-width: 480px;
+    height: 30px;
+}
+
+.house {
+   display: flex;
+   justify-content: center;
+   justify-content: space-around;
+   flex-direction: column;
+   width: 100%;
+   height: 200px;
+  
+
+
+    
+}
+
+.topfloor {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+    margin-bottom: 
+    
+    
+    
+    
+
+}
+
+.groundfloor {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    
+    
+}
+
+.brick {
+    border: 2px solid black;
+    width: 80px;
+    height: 80px;
+}

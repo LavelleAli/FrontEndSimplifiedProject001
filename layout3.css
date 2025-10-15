@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.container{
+    border: 2px solid red;
+    width: 100%;
+    max-width: 800px;
+    height: 350px;
+    display: flex;
+    align-items: center;
+
+   
+
+}
+
+.bbcon {
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    padding-right: 5%;
+    padding-left: 5%;
+    
+}
+
+.regboxcon {
+    width: 100%;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    justify-content: space-around;
+    padding-left: 15px;
+
+
+}
+
+.box {
+    border: 2px solid red;
+    width: 100%;
+    max-width: 400px;
+    height: 60px;
+}
+
+.bigbox {
+    border: 2px solid red;
+    width: 100%;
+    max-width: 300px;
+    height: 248px;
+}
